@@ -1,0 +1,23 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\killordestruct.cs">
+    <Files>
+      <File FileName="Assets\killordestruct.cs" Line="16" Column="35" />
+      <File FileName="Assets\Scripts\MazeGenerator.cs" Line="1" Column="1" />
+      <File FileName="Assets\Hax\LoadingBar.cs" Line="28" Column="6" />
+      <File FileName="Assets\Scripts\Teleporter.cs" Line="1" Column="1" />
+      <File FileName="Assets\Hax\HideOnTrigger.cs" Line="1" Column="1" />
+      <File FileName="Assets\walk.cs" Line="1" Column="1" />
+      <File FileName="Assets\Models\Guy\ThreePronhg\Prefabs\General\PlayerSetup.cs" Line="1" Column="1" />
+      <File FileName="Assets\Models\Guy\B_Controller.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ExplodeTrigger.cs" Line="14" Column="3" />
+      <File FileName="Assets\gamevars.cs" Line="1" Column="1" />
+      <File FileName="Assets\worldmaker.cs" Line="1" Column="1" />
+      <File FileName="Assets\twodhorror.cs" Line="6" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
